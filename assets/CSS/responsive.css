@@ -90,6 +90,7 @@
 
     .places-list .places-buy-btn{
         text-align: center;
+        -webkit-appearance: none;
     }
     .contact-form{
         margin-top: 32px;
