@@ -339,6 +339,8 @@ html{
         border: none;
         float: right;
         padding: 10px 16px;
+        appearance: none;
+        -webkit-appearance: none;
 }
 
 .contact-form .form-submit-btn:hover{
