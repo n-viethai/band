@@ -35,13 +35,13 @@
         line-height: 2;
     }
     .places-list .places-buy-btn{      
-        font-size: 16px;
+        font-size: 16px !important;
     }
     .contact-form .form-control{
-        font-size: 16px;
+        font-size: 16px !important;
     }
     .contact-form .form-submit-btn{
-        font-size: 16px;
+        font-size: 18px !important;
     }
 }
 
